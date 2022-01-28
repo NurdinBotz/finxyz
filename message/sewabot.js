@@ -4,20 +4,19 @@ return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* Seminggu : 5K         
-*│▸* 1 Bulan = 10K        
-*│▸* permanen = 20K          
-*|-* Run Bot = 30K + Jadi Owner             
+*┴*       
+*│▸* 1 Bulan = 2K        
+*│▸* permanen = 5K          
+*|-* Run Bot = 16K + Jadi Owner             
 *┬*
 *╰────────────[*
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
 *│▸* Shopee : ${settings.Shopee}
-*│▸* Gopay : ${settings.Gopay}
-*│▸* Dana : ${settings.Dana}
-*│▸* Ovo : ${settings.Ovo}
+*│▸* Gopay : ${settings.VIA QR}
+*│▸* Dana : ${settings.085798328466}
+*│▸* Ovo : ${settings.085600485981}
 *┬*
 *╰────────────[*
 
