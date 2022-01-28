@@ -5,7 +5,7 @@ return`
 │  Bantu Developer ngembangin bot ini
 │  dengan donasi seiklasnya 🙂
 │
-│  Pulsa Telkom : 081376900646
+│  GOPAY : VIA QR
 │ 
 │ Makasih yang udah donasi
 │ dan bantu ngembangin bot ini
